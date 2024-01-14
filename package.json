@@ -1,0 +1,22 @@
+{
+  "name": "hw-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Kateryna Osadchenko",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.2"
+  }
+}
